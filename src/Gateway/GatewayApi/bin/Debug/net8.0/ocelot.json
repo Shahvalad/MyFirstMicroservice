@@ -1,0 +1,31 @@
+{
+  "Routes": [
+    {
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5004
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Gateway/Products",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Products"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Gateway/Categories",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Categories"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5006"
+  }
+}

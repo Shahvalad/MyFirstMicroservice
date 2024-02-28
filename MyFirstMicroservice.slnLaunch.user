@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "src\\Services\\Category\\CategoryApi\\CategoryApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "src\\Services\\Product\\ProductApi\\ProductApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "src\\Gateway\\GatewayApi\\GatewayApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

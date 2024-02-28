@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\product\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|solutionrelative:src\\services\\product\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\category\\categoryapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|solutionrelative:src\\services\\category\\categoryapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\gatewayapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\gatewayapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\gateway\\gatewayapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{220918B0-9DFA-4522-AD7F-F3F1BCDEBCB1}|src\\Gateway\\GatewayApi\\GatewayApi.csproj|solutionrelative:src\\gateway\\gatewayapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\product\\productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|solutionrelative:src\\services\\product\\productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\product\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|solutionrelative:src\\services\\product\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\product\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|solutionrelative:src\\services\\product\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\category\\categoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|solutionrelative:src\\services\\category\\categoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\product\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D80DFA-1740-403C-B813-0840D8EC453E}|src\\Services\\Product\\ProductApi\\ProductApi.csproj|solutionrelative:src\\services\\product\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|c:\\users\\shahvaladea\\desktop\\myfirstmicroservice\\src\\services\\category\\categoryapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CFFA3A-A28B-462C-AB25-C14C44081CDD}|src\\Services\\Category\\CategoryApi\\CategoryApi.csproj|solutionrelative:src\\services\\category\\categoryapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\Program.cs",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\Program.cs",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:43:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:34:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GatewayApi",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\GatewayApi.csproj",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\GatewayApi.csproj",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\GatewayApi.csproj",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\GatewayApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T08:34:29.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product\\ProductApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Services\\Product\\ProductApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:34:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:34:17.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\appsettings.json",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:34:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\ocelot.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\GatewayApi\\ocelot.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Gateway\\GatewayApi\\ocelot.json",
+              "RelativeToolTip": "src\\Gateway\\GatewayApi\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:33:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product\\ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Product\\ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:30:01.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Category\\CategoryApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Category\\CategoryApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:29:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductApi",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\ProductApi.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Product\\ProductApi\\ProductApi.csproj",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\ProductApi.csproj",
+              "RelativeToolTip": "src\\Services\\Product\\ProductApi\\ProductApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T08:29:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Category\\CategoryApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Category\\CategoryApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:29:27.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product\\ProductApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Product\\ProductApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T08:29:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product\\ProductApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Product\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Services\\Product\\ProductApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:27:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Category\\CategoryApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\shahvaladea\\Desktop\\MyFirstMicroservice\\src\\Services\\Category\\CategoryApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "src\\Services\\Category\\CategoryApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:24:57.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
